@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "1amESrBrIotxR26cYwHztt2cZooTRLDUoX_7lIlKFsomg2BsXyPRvqEa5wHJ7ZTKZzyUzJhQkFP36r-OTjFFIDWqwSb5vrGMHaQ_tTKIBvoQE8ddIJySXEna_Jm1xLFwTajM8dyWeOyyb9LIA1VrwNQssZS6s5Mecw_fz14smgPhJ9MXLdih7IurvRCVioilcgYTkGemPcjtbLb-gVwYkt94LKbEjtGDvIh9H2YYvVT6s1GolscxmVZcfKe4r7re6M6qSZrNe9G3v9bmQP6ifwRZVujb2uqlt0kqBdQDRGxNrhRA-7W73dkeeKpUNOmVPuDNMi25meunqwnIlZA1Zw",
+      "e": "AQAB",
+      "kid": "tracker-local-2026-01",
+      "use": "sig",
+      "alg": "RS256"
+    }
+  ]
+}
